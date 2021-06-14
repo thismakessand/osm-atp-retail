@@ -1,0 +1,16 @@
+wr/landuse=commercial
+wr/landuse=retail
+wr/landuse=military
+wr/shop=mall
+wr/amenity=marketplace
+wr/amenity=community_centre
+wr/amenity=college
+wr/amenity=hospital
+wr/amenity=university
+wr/amenity=prison
+wr/amenity=library
+wr/aeroway=aerodrome
+wr/leisure=stadium
+wr/leisure=sports_centre
+wr/tourism=hotel
+wr/tourism=museum
