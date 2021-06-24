@@ -141,6 +141,6 @@ dmypy.json
 cython_debug/
 
 # project
-data
+/data/
 *.qgz
 *.pbf
